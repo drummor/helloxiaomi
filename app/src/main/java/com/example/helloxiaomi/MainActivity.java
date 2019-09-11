@@ -1,9 +1,7 @@
 package com.example.helloxiaomi;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -37,7 +35,5 @@ git
 
     //master第三次修改了已经是
 
-
     //hotfix中做修改
-
 }
