@@ -24,4 +24,10 @@ public class MainActivity extends AppCompatActivity {
          {}
          */
     }
+
+
+    /**
+     * 在hotfix中写了这样一段代码/
+     * 还删除了上面一段
+     */
 }
