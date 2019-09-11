@@ -20,11 +20,10 @@ public class MainActivity extends AppCompatActivity {
          你属呢
          纳你是或额
 
-         Synchorzied{}
-         {}
+git
          */
     }
-
+        //修改修改2 hotfix中修改的
 
     /**
      * 在hotfix中写了这样一段代码/
