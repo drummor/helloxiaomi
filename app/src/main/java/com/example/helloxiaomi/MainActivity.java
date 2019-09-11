@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 git
          */
     }
-        //修改修改2 hotfix中修改的
+        //修改修改2 hotfix中修改
 
     /**
      * 在hotfix中写了这样一段代码/
@@ -32,4 +32,7 @@ git
 
 
     //master中做一次修改
+
+    //master第三次修改了已经是
+
 }
