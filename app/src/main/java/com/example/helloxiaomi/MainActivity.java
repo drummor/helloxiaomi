@@ -1,6 +1,8 @@
 package com.example.helloxiaomi;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import android.app.ActivityManager;
 import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
@@ -8,6 +10,11 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
+
+
+
         //这是一段注释
         /*
         这是一段注释你说呢收弄死你是会收到回复粉底是否合适的发f
@@ -40,4 +47,6 @@ git
     //sdfjidsjfiojdsiofj
 
     //dfsfasdf
+
+    //fdsokpsdfo
 }
